@@ -31,10 +31,10 @@ Ndarray cơ bản được tạo bằng cách sử dụng phương thức: `nump
 `numpy.array(object, dtype=None, copy=True, ndmin=0`
 
 **Trong đó:**
-	+ Object: đối tượng có phương thức giao diện mảng.
-	+ Dtype: loại dữ liệu mong muốn của mảng (tuỳ chọn)
-	+ Copy: mặc định = True đối tượng được copy (tuỳ chọn)
-	+ ndmin: chỉ định kích thước tổi thiểu của mảng kết quả.
+- Object: đối tượng có phương thức giao diện mảng.
+- Dtype: loại dữ liệu mong muốn của mảng (tuỳ chọn).
+- Copy: mặc định = True đối tượng được copy (tuỳ chọn).
+- ndmin: chỉ định kích thước tổi thiểu của mảng kết quả.
   
 ## Numpy – Data Type
 
