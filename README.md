@@ -1,7 +1,7 @@
 # Giới thiệu thư viện Numpy
 [**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/01.Numpy/blob/main/Overview_Numpy.ipynb)
 
-**Tóm tắt**
+**Dưới đây là tóm tắt lí thuyết**
 ## NumPy là gì?
 
 **NumPy** (viết tắt của Numerical Python) từ lâu đã là nền tảng của điện toán số (numerical computing) trong Python. Nó cung cấp cấu trúc dữ liệu, thuật toán và thư viện cần thiết cho hầu hết các ứng dụng khoa học liên quan đến dữ liệu số trong Python. Thư viện NumPy bao gồm các đối tượng mảng đa chiều (multidimensional array) và một tập hợp các phương thức để xử lý mảng đa chiều đó. Sử dụng Numpy, các toán tử toán học và logic có thể được thực hiện. Ngoài các khả năng xử lý mảng nhanh mà NumPy có, một trong những ứng dụng chính của Numpy trong phân tích dữ liệu là làm nơi chứa dữ liệu được truyền giữa các thuật toán và thư viện. Đối với dữ liệu số, mảng NumPy hiệu quả hơn để lưu trữ và thao tác dữ liệu so với các cấu trúc dữ liệu Python tích hợp khác. 
