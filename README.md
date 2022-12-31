@@ -50,3 +50,5 @@ Numpy hỗ trợ rất nhiều kiểu dữ liệu khác nhau như:
 + **float16**: bit dấu, số mũ 5 bit, phần định trị 10 bit.
 + **float32**: bit dấu, số mũ 8 bit, phần định trị 23 bit.
 + **float64**: bit dấu, số mũ 11 bit, phần định trị 52 bit.
+
+[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/01.Numpy/blob/main/Overview_Numpy.ipynb)
