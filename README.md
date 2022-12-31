@@ -1,5 +1,6 @@
 # Giới thiệu thư viện Numpy
 [**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/01.Numpy/blob/main/Overview_Numpy.ipynb)
+
 **Tóm tắt**
 ## NumPy là gì?
 
